@@ -1,11 +1,9 @@
 ![MasterHead](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg)
-
 <h1 align="center">Hi! I'm Shahtaz Rahman</h1>
 <h3 align="center">A MERN Stack web developer</h3>
 <img align="right" width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=2000" alt="image from freepik" />
 
-
-- 🌱 I’m currently learning **React JS, Express, MongoDB, Node JS and want to learn Web 3.0**
+- 🌱 I’m currently learning **MERN stack, React JS, Typescript and Web 3.0**
 
 - 👨‍💻 All of my projects are available at [https://shahtazrahman.netlify.app/](https://shahtazrahman.netlify.app/)
 

@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Shahtaz Rahman</h1>
 <h3 align="center">A MERN Stack Web Developer</h3>
 
-<img align="right" width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=2000" alt="image from freepik" />
-
 - 🌱 I’m currently learning **React JS, Typescript, Heroku and Web 3.0**
 
 - 👨‍💻 All of my projects are available at [https://shahtazrahman.netlify.app/](https://shahtazrahman.netlify.app/)

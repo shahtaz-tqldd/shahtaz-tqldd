@@ -1,4 +1,4 @@
-![MasterHead]([https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg](https://media.licdn.com/dms/image/D5616AQFLU1Vjqn33ww/profile-displaybackgroundimage-shrink_350_1400/0/1671310599025?e=1676505600&v=beta&t=zlEgWyCXPu3dH7wOJAmkMc6f5RwKJoRTxAuGDErOySg](https://media.licdn.com/dms/image/D5616AQFLU1Vjqn33ww/profile-displaybackgroundimage-shrink_350_1400/0/1671310599025?e=1676505600&v=beta&t=zlEgWyCXPu3dH7wOJAmkMc6f5RwKJoRTxAuGDErOySg))
+![MasterHead](https://i.ibb.co/VM2zhKj/Blue-Simple-Personal-Linked-In-Banner.png)
 <h1 align="center">Hi, I'm Shahtaz Rahman</h1>
 <h3 align="center">A MERN Stack Web Developer</h3>
 
@@ -13,7 +13,8 @@ I have worked on 12 different projects where I implemented my learned skills.
 To talk little bit about myself, I am easy and flexible to work with. I think I am a
 hard working person. I like reading books, going on tour and watching tv series. I am 
 a dedicated person and I want to work in Google someday. So I want to grow and evolve 
-myself right now and to work in you company EIDOSMEDIA will be great opportunity for me.</p>
+myself right now and to work in you company EIDOSMEDIA will be great opportunity for me.</p> 
+<br/>
 
 - 🌱 I’m currently learning **React JS, Typescript, Heroku and Web 3.0**
 

@@ -18,7 +18,7 @@ myself right now and to work in you company EIDOSMEDIA will be great opportunity
 
 - 🌱 I’m currently learning **React JS, Typescript, Heroku and Web 3.0**
 
-- 👨‍💻 All of my projects are available at [https://shahtazrahman.netlify.app/](https://shahtazrahman.netlify.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-6fd18.web.app/
 
 - 💬 Ask me about **React JS, Express, Node JS, Mongo DB and Philosophy**
 

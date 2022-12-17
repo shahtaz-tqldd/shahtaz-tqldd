@@ -1,6 +1,19 @@
-![MasterHead](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg)
+![MasterHead](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg](https://media.licdn.com/dms/image/D5616AQFLU1Vjqn33ww/profile-displaybackgroundimage-shrink_350_1400/0/1671310599025?e=1676505600&v=beta&t=zlEgWyCXPu3dH7wOJAmkMc6f5RwKJoRTxAuGDErOySg)
 <h1 align="center">Hi, I'm Shahtaz Rahman</h1>
 <h3 align="center">A MERN Stack Web Developer</h3>
+
+<p>
+I have been a web developer for more than 1 year. I have started learning web development
+out of self interest. I have excelled in HTML, CSS and JavaScript. Then I evolved myself
+into React JS. After learning React, I learned Node Js and Express. I am capable of using 
+Google Firebase Authentication. I am skilled in using Json Web Token authorization. For database application I am proficient in using Mongo DB.
+<br/><br/>
+I have worked on 12 different projects where I implemented my learned skills. 
+<br/><br/>
+To talk little bit about myself, I am easy and flexible to work with. I think I am a
+hard working person. I like reading books, going on tour and watching tv series. I am 
+a dedicated person and I want to work in Google someday. So I want to grow and evolve 
+myself right now and to work in you company EIDOSMEDIA will be great opportunity for me.</p>
 
 - 🌱 I’m currently learning **React JS, Typescript, Heroku and Web 3.0**
 

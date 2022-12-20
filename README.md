@@ -11,9 +11,7 @@ Google Firebase Authentication. I am skilled in using Json Web Token authorizati
 I have worked on 12 different projects where I implemented my learned skills. 
 <br/><br/>
 To talk little bit about myself, I am easy and flexible to work with. I think I am a
-hard working person. I like reading books, going on tour and watching tv series. I am 
-a dedicated person and I want to work in Google someday. So I want to grow and evolve 
-myself right now and to work in you company EIDOSMEDIA will be great opportunity for me.</p> 
+hard working person. I like reading books, going on tour and watching tv series.</p> 
 <br/>
 
 - 🌱 I’m currently learning **React JS, Typescript, Heroku and Web 3.0**

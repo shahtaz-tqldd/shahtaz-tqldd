@@ -28,7 +28,7 @@ hard working person. I like reading books, going on tour and watching tv series.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahmanshahtaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahmanshahtaz" height="30" width="40" /></a>
+<a href="https://twitter.com/rahmanshahtaz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahmanshahtaz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shahtaz-rahman-a8092a174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahtaz-rahman-a8092a174" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/15849894/shahtaz-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/15849894/shahtaz-rahman" height="30" width="40" /></a>
 <a href="https://fb.com/shahtaz.rahman.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahtaz.rahman.3" height="30" width="40" /></a>

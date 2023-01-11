@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/VM2zhKj/Blue-Simple-Personal-Linked-In-Banner.png)
+![MasterHead](https://i.ibb.co/LhkryFD/profile-banner.gif)
 <h1 align="center">Hi, I'm Shahtaz Rahman</h1>
 <h3 align="center">A MERN Stack Web Developer</h3>
 
@@ -12,7 +12,6 @@ I have worked on 12 different projects where I implemented my learned skills.
 <br/><br/>
 To talk little bit about myself, I am easy and flexible to work with. I think I am a
 hard working person. I like reading books, going on tour and watching tv series.</p> 
-<br/>
 
 - 🌱 I’m currently learning **PostgreSQL, Next JS, Redux, Typescript**
 
@@ -26,7 +25,7 @@ hard working person. I like reading books, going on tour and watching tv series.
 
 - 📄 And my CV from here: [https://drive.google.com/file/d/1JuY8s0GFlqmSvGZwZ4KWu67Jo5W6tQN4/view?usp=sharing](https://drive.google.com/file/d/1JuY8s0GFlqmSvGZwZ4KWu67Jo5W6tQN4/view?usp=sharing)
 
-
+<br/>
 <h3 align="left">Reach me out at</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahtaz-rahman-a8092a174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahtaz-rahman-a8092a174" height="30" width="40" /></a> &emsp;
@@ -47,6 +46,7 @@ hard working person. I like reading books, going on tour and watching tv series.
 <h3>Frontend</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &emsp;
+<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &emsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &emsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &emsp;

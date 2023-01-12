@@ -21,9 +21,9 @@ hard working person. I like reading books, going on tour and watching tv series.
 
 - 📫 Email me to **shahtazrahman17@gmail.com**
 
-- 📄 Get My Resume from here: [https://drive.google.com/file/d/1MyGInd-FpCx1nJwtJtLEOFpIECAGGhyI/view?usp=sharing](https://drive.google.com/file/d/1MyGInd-FpCx1nJwtJtLEOFpIECAGGhyI/view?usp=sharing)
+- 📄 Get My Resume from here: <a href="https://drive.google.com/file/d/1MyGInd-FpCx1nJwtJtLEOFpIECAGGhyI/view?usp=sharing" target="_blank" rel="noreferrer">Resume Link</a>
 
-- 📄 And my CV from here: [https://drive.google.com/file/d/1JuY8s0GFlqmSvGZwZ4KWu67Jo5W6tQN4/view?usp=sharing](https://drive.google.com/file/d/1JuY8s0GFlqmSvGZwZ4KWu67Jo5W6tQN4/view?usp=sharing)
+- 📄 And my CV from here: <a href="https://drive.google.com/file/d/1JuY8s0GFlqmSvGZwZ4KWu67Jo5W6tQN4/view?usp=sharing" target="_blank" rel="noreferrer">CV Link</a>
 
 <br/>
 <h3 align="left">Reach me out at</h3>

@@ -15,7 +15,7 @@ hard working person. I like reading books, going on tour and watching tv series.
 
 - 🌱 I’m currently learning **PostgreSQL, Next JS, Redux, Typescript**
 
-- 👨‍💻 All of my projects are available at my portfolio: https://portfolio-6fd18.web.app/
+- 👨‍💻 All of my projects are available at my <a href="https://portfolio-6fd18.web.app/" target="_blank" rel="noreferrer" >Portfolio </a>
 
 - 💬 Ask me about **MERN Stack, JavaScript, web development and Philosophy**
 

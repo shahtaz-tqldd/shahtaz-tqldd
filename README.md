@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/LhkryFD/profile-banner.gif)
+![MasterHead](https://i.ibb.co/0JTFSHG/shahtaz.jpg)
 <h1 align="center">Hi, I'm Shahtaz Rahman</h1>
 <h3 align="center">A MERN Stack Web Developer</h3>
 

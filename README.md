@@ -1,19 +1,16 @@
-![MasterHead](https://i.ibb.co/0JTFSHG/shahtaz.jpg)
+![MasterHead](https://i.ibb.co/x1t1ZPc/Black-White-Modern-Minimalist-Data-Analyst-Linked-In-Banner.png)
 <h1 align="center">Hi, I'm Shahtaz Rahman</h1>
-<h3 align="center">A MERN Stack Web Developer</h3>
+<h3 align="center">MERN Stack Web Developer</h3>
 
 <p>
-I have been a web developer for more than 1 year. I have started learning web development
-out of self interest. I have excelled in HTML, CSS and JavaScript. Then I evolved myself
-into React JS. After learning React, I learned Node Js and Express. I am capable of using 
-Google Firebase Authentication. I am skilled in using Json Web Token authorization. For database application I am proficient in using Mongo DB.
+I'm a self driven web programmer with a passion for crafting dynamic and interactive web applications. With extensive experience in MongoDB, Express, React, and Node.js, I thrive on turning ideas into fully functional, user-friendly digital experiences. Whether it's building robust APIs, designing intuitive user interfaces, or optimizing database performance, I'm dedicated to delivering high-quality solutions that meet both user needs and business objectives.
 <br/><br/>
-I have worked on 12 different projects where I implemented my learned skills. 
+I have had the privilege of working in two distinct organizations, where I had the opportunity to contribute to the development of multiple scalable web applications.
 <br/><br/>
-To talk little bit about myself, I am easy and flexible to work with. I think I am a
-hard working person. I like reading books, going on tour and watching tv series.</p> 
+To talk little bit about myself, I am easy and flexible to work with, and I am a
+hard working person. I like reading books, going on tours and watching sci-fi movies</p> 
 
-- 🌱 I’m currently learning **PostgreSQL, Next JS, Redux, Typescript**
+- 🌱 I’m currently learning **PostgreSQL, Next JS, Typescript, devOps**
 
 - 👨‍💻 All of my projects are available at my <a href="https://portfolio-6fd18.web.app/" target="_blank" rel="noreferrer" >Portfolio </a>
 

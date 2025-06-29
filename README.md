@@ -35,7 +35,7 @@ All of my major projects are available at my [Portfolio Website](https://shahtaz
 
 ### 📄 Resume & CV
 
-- [Download My Resume](https://drive.google.com/file/d/1MyGInd-FpCx1nJwtJtLEOFpIECAGGhyI/view?usp=sharing)
+- [Download My Resume](https://drive.google.com/file/d/1lV9dIwZU1Ede97Fao-GY1s3EjLPyjvO-)
 - [View My CV](https://drive.google.com/file/d/1JuY8s0GFlqmSvGZwZ4KWu67Jo5W6tQN4/view?usp=sharing)
   
 
@@ -51,8 +51,8 @@ All of my major projects are available at my [Portfolio Website](https://shahtaz
 
 ### 🧠 Developer Profiles
 
-[![Stack Overflow](https://stackoverflow.com/users/15849894/shahtaz-rahman) &nbsp;
-[![HackerRank](https://www.hackerrank.com/shahtaz67)
+[Stack Overflow](https://stackoverflow.com/users/15849894/shahtaz-rahman)
+[HackerRank](https://www.hackerrank.com/shahtaz67)
 
 
 📧 Email: **shahtaz67@gmail.com**
@@ -64,7 +64,9 @@ All of my major projects are available at my [Portfolio Website](https://shahtaz
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahtaz-tqldd&show_icons=true&locale=en" alt="shahtaz-tqldd" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahtaz-tqldd" alt="shahtaz-tqldd" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=shahtaz-tqldd&theme=default" alt="shahtaz-tqldd GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahtaz-tqldd&layout=compact&theme=default" alt="Top Languages"/>
 </p>

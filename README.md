@@ -62,9 +62,9 @@ All of my major projects are available at my [Portfolio Website](https://shahtaz
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahtaz-tqldd&show_icons=true&locale=en&theme=default" width="320" alt="shahtaz-tqldd GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahtaz-tqldd&show_icons=true&locale=en&theme=default" width="360" alt="shahtaz-tqldd GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahtaz-tqldd&layout=compact&theme=default" width="320" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahtaz-tqldd&layout=compact&theme=default" width="360" alt="Top Languages" />
 </p>

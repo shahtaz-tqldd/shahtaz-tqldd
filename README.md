@@ -1,7 +1,7 @@
 ![MasterHead](https://res.cloudinary.com/dqyv780cz/image/upload/v1751217506/cover-min_kymtkj.jpg)
 
 <h1 align="center">Hey, I'm Shahtaz</h1>
-<h4 align="center">Software Developer | MERN Stack | Passionate Problem Solver</h4>
+<h4 align="center">Software Developer | Problem Solver | Philosopher</h4>
 
 ### 👋 About Me
 
@@ -51,8 +51,8 @@ All of my major projects are available at my [Portfolio Website](https://shahtaz
 
 ### 🧠 Developer Profiles
 
-[![Stack Overflow](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/15849894/shahtaz-rahman) &nbsp;
-[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/shahtaz67)
+[![Stack Overflow](https://stackoverflow.com/users/15849894/shahtaz-rahman) &nbsp;
+[![HackerRank](https://www.hackerrank.com/shahtaz67)
 
 
 📧 Email: **shahtaz67@gmail.com**

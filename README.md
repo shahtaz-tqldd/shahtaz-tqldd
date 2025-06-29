@@ -5,7 +5,7 @@
 
 ### 👋 About Me
 
-I'm a self-driven web programmer with a passion for building dynamic, scalable, and interactive web applications. With hands-on experience in **JavaScript, Python, React, Node JS, Django, PostgreSQL, and MongoDB**, I love transforming ideas into functional, user-friendly digital experiences.
+I'm a self-driven web programmer with a passion for building dynamic, scalable, and interactive web applications. With hands-on experience in **JavaScript, Python, React, Node JS, Django, postgreSQL, and mongoDB**, I love transforming ideas into functional, user-friendly digital experiences.
 
 Whether it’s designing clean UI, crafting efficient APIs, or optimizing databases, I strive to deliver high-quality solutions that align with both user needs and business goals.
 
@@ -21,39 +21,39 @@ I've had the opportunity to contribute to multiple scalable projects across two 
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, C, C++, Python  
-- **Frontend:** React.js, Next.js, Redux, Tailwind CSS, ShadCN UI  
-- **Backend:** Node.js, Express.js, Django, FastAPI  
-- **Database:** MongoDB, PostgreSQL, SQLite  
+- **Languages:** JavaScript, TypeScript, C, C++, Python
+- **Frontend:** React.js, Next.js, Redux, Tailwind CSS, ShadCN UI
+- **Backend:** Node.js, Express.js, Django, FastAPI
+- **Database:** MongoDB, PostgreSQL, SQLite
 - **Tools & Platforms:** Git, Docker, Firebase, AWS (Basics)
-
+  
 
 ### 📂 Featured Projects
 
-All of my major projects are available at my  
-<a href="https://shahtaz.dev/#projects" target="_blank" rel="noopener noreferrer">Portfolio Website</a>
+All of my major projects are available at my [Portfolio Website](https://shahtaz.dev/#projects)
 
 
 ### 📄 Resume & CV
 
-- <a href="https://drive.google.com/file/d/1lV9dIwZU1Ede97Fao-GY1s3EjLPyjvO-" target="_blank" rel="noopener noreferrer">Download My Resume</a>  
-- <a href="https://drive.google.com/file/d/1JuY8s0GFlqmSvGZwZ4KWu67Jo5W6tQN4/view?usp=sharing" target="_blank" rel="noopener noreferrer">View My CV</a>
-
+- [Download My Resume](https://drive.google.com/file/d/1lV9dIwZU1Ede97Fao-GY1s3EjLPyjvO-)
+- [View My CV](https://drive.google.com/file/d/1JuY8s0GFlqmSvGZwZ4KWu67Jo5W6tQN4/view?usp=sharing)
+  
 
 ### 💬 Ask Me About
 
-- MERN Stack Development  
-- REST APIs & Database Design  
-- JavaScript / TypeScript  
-- Software Architecture  
-- Web App Performance  
+- MERN Stack Development
+- REST APIs & Database Design
+- JavaScript / TypeScript
+- Software Architecture
+- Web App Performance
 - Philosophy & Logic 😄
 
 
 ### 🧠 Developer Profiles
 
-- <a href="https://stackoverflow.com/users/15849894/shahtaz-rahman" target="_blank" rel="noopener noreferrer">Stack Overflow</a>  
-- <a href="https://www.hackerrank.com/shahtaz67" target="_blank" rel="noopener noreferrer">HackerRank</a>  
+[Stack Overflow](https://stackoverflow.com/users/15849894/shahtaz-rahman)
+[HackerRank](https://www.hackerrank.com/shahtaz67)
+
 
 📧 Email: **shahtaz67@gmail.com**
 
@@ -62,9 +62,9 @@ All of my major projects are available at my
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahtaz-tqldd&show_icons=true&locale=en&theme=default" width="500" alt="shahtaz-tqldd GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahtaz-tqldd&show_icons=true&locale=en&theme=default" width="320" alt="shahtaz-tqldd GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahtaz-tqldd&layout=compact&theme=default" width="500" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahtaz-tqldd&layout=compact&theme=default" width="320" alt="Top Languages" />
 </p>

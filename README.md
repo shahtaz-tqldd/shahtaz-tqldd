@@ -9,7 +9,7 @@ Software Engineer | Full-Stack Developer | Agentic AI & Backend Systems
 <p align="center">
   <a href="https://shahtaz.dev">Portfolio</a> •
   <a href="https://linkedin.com/in/shahtazrahman">LinkedIn</a> •
-  <a href="mailto:shahtaz67@gmail.com">Email</a>
+  <a href="mailto:shahtaz67@gmail.com">Email</a> •
   <a href="https://drive.google.com/file/d/1lV9dIwZU1Ede97Fao-GY1s3EjLPyjvO-">Get my Resume</a>
 </p>
 
